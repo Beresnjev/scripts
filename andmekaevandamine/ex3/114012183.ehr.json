@@ -1,0 +1,2326 @@
+[
+    {
+        "ehitis": {
+            "ehitiseKujud": {
+                "ruumikuju": [
+                    {
+                        "oper": "A",
+                        "adobId": "9412470",
+                        "adsOid": "EE01109757",
+                        "nahtus": "HOONE",
+                        "adsLiik": "EE",
+                        "ehit_id": "28591691",
+                        "ehrKood": "114012183",
+                        "kujuJnr": "1",
+                        "nimetus": null,
+                        "pindala": "322.6",
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        614857.89,
+                                        6503391.06
+                                    ],
+                                    [
+                                        614850.46,
+                                        6503396.67
+                                    ],
+                                    [
+                                        614829.63,
+                                        6503368.98
+                                    ],
+                                    [
+                                        614837.06,
+                                        6503363.37
+                                    ],
+                                    [
+                                        614853.19,
+                                        6503384.81
+                                    ],
+                                    [
+                                        614857.89,
+                                        6503391.06
+                                    ]
+                                ]
+                            ]
+                        },
+                        "gis_kood": null,
+                        "kuju_liik": null,
+                        "nahtusTxt": "hoone",
+                        "mkm_joonis": null,
+                        "nliik_kood": null,
+                        "geometryTxt": "Geomeetria punktid on geomeetria objektis",
+                        "lahiaadress": "Tartu mnt 4",
+                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4",
+                        "viitepunktX": "614843.76",
+                        "viitepunktY": "6503380.02",
+                        "date_updated": "2022-05-28T06:23:03.727",
+                        "geom_updated": "2017-11-16T06:29:07.000",
+                        "geometryType": "Geomeetria t\u00fc\u00fcp on geomeetria objektis",
+                        "ads_esitamine": null,
+                        "hoone_kuju_id": "25526883",
+                        "tyhistatud_kp": null,
+                        "geometryTypeTxt": "Geomeetria t\u00fc\u00fcp on geomeetria objektis",
+                        "sissepaasu_punkt": null,
+                        "kujuMoodustusviis": "K",
+                        "sissepaasupunktid": {
+                            "sissepaasupunkt": [
+                                {
+                                    "id": "22655749",
+                                    "nimi": "ADS s\u00fcsteemist loetud",
+                                    "oper": "A",
+                                    "kuju_id": "25526883",
+                                    "geometry": {
+                                        "type": "Point",
+                                        "coordinates": [
+                                            614843.76,
+                                            6503380.02
+                                        ]
+                                    },
+                                    "date_created": "2022-05-28T06:23:03.727",
+                                    "date_updated": "2022-05-28T06:23:03.727",
+                                    "viitepunkt_x": "6503380.02",
+                                    "viitepunkt_y": "614843.76",
+                                    "moodustusviis": "S",
+                                    "eh_sp_punkt_id": "434705"
+                                }
+                            ]
+                        },
+                        "ehitiseKujuAadressid": {
+                            "aadress": [
+                                {
+                                    "id": "29747853",
+                                    "olek": "K",
+                                    "oper": "A",
+                                    "adrId": "3382642",
+                                    "tekst": null,
+                                    "aadr_id": "5682420",
+                                    "kuju_id": "25526883",
+                                    "olekTxt": "kehtiv",
+                                    "tase1_id": "7430891",
+                                    "tase2_id": "7430927",
+                                    "tase3_id": "7431082",
+                                    "tase4_id": null,
+                                    "tase5_id": "7438094",
+                                    "tase6_id": null,
+                                    "tase7_id": "7864303",
+                                    "tase8_id": null,
+                                    "tase1_kood": "50",
+                                    "tase2_kood": "618",
+                                    "koodaadress": "50618653700000TDX0000BRJU00000000",
+                                    "lahiaadress": "Tartu mnt 4",
+                                    "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4",
+                                    "tase1_nimetus": "J\u00f5geva maakond",
+                                    "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                    "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                    "tase4_nimetus": null,
+                                    "tase5_nimetus": "Tartu mnt",
+                                    "tase6_nimetus": null,
+                                    "tase7_nimetus": "4",
+                                    "tase8_nimetus": null,
+                                    "aadressTekstina": null
+                                }
+                            ]
+                        },
+                        "kujuMoodustusviisTxt": "kaardistatud"
+                    }
+                ]
+            },
+            "ehitiseAndmed": {
+                "url": "URL pole kasutusel",
+                "oper": "A",
+                "adsOid": "EE01109757",
+                "ehitId": "28591691",
+                "ehrKood": "114012183",
+                "nimetus": "12-KRT. ELAMU",
+                "seisund": "EHITIS_SEISUND_OLEMA",
+                "kaosKood": "11222",
+                "markused": null,
+                "kaosIdTxt": "Muu kolme v\u00f5i enama korteriga elamu",
+                "seisundTxt": "Olemas",
+                "verTekkAeg": "2023-09-23T07:26:46.788",
+                "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4",
+                "rajatisHoone": "H",
+                "esmaneKasutus": "1968",
+                "kaosIdPeamine": "11222",
+                "katastriyksused": "katastriuksused on eraldi plokis",
+                "rajatishoonetxt": "hoone"
+            },
+            "ehitiseKehand": {
+                "kehand": [
+                    {
+                        "tekkeviis": "P",
+                        "kehandOper": "A",
+                        "ehitiseOsad": {
+                            "ehitiseOsa": [
+                                {
+                                    "id": "21615045",
+                                    "liik": "K",
+                                    "tahis": "12",
+                                    "adsOid": "ER01463800",
+                                    "aadress": {
+                                        "id": "28072530",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682432",
+                                        "ehos_id": "21615045",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8339446",
+                                        "ads_adr_id": "3382654",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX60000",
+                                        "lahiaadress": "Tartu mnt 4-12",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-12",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "12"
+                                    },
+                                    "adob_id": "9412482",
+                                    "ehrKood": "114012183-1719044",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719044",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "41.5",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "2",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "3",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615045",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615046",
+                                    "liik": "K",
+                                    "tahis": "11",
+                                    "adsOid": "ER01463799",
+                                    "aadress": {
+                                        "id": "27988478",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682431",
+                                        "ehos_id": "21615046",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8325024",
+                                        "ads_adr_id": "3382653",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX50000",
+                                        "lahiaadress": "Tartu mnt 4-11",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-11",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "11"
+                                    },
+                                    "adob_id": "9412481",
+                                    "ehrKood": "114012183-1719042",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719042",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.5",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "3",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615046",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615047",
+                                    "liik": "K",
+                                    "tahis": "10",
+                                    "adsOid": "ER01463796",
+                                    "aadress": {
+                                        "id": "28195708",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682430",
+                                        "ehos_id": "21615047",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8325258",
+                                        "ads_adr_id": "3382652",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX40000",
+                                        "lahiaadress": "Tartu mnt 4-10",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-10",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "10"
+                                    },
+                                    "adob_id": "9412480",
+                                    "ehrKood": "114012183-1719040",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719040",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "41.2",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "2",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "2",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615047",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615048",
+                                    "liik": "K",
+                                    "tahis": "9",
+                                    "adsOid": "ER01463794",
+                                    "aadress": {
+                                        "id": "28172301",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682429",
+                                        "ehos_id": "21615048",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8325358",
+                                        "ads_adr_id": "3382651",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX30000",
+                                        "lahiaadress": "Tartu mnt 4-9",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-9",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "9"
+                                    },
+                                    "adob_id": "9412479",
+                                    "ehrKood": "114012183-1719038",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719038",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.6",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "2",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615048",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615049",
+                                    "liik": "K",
+                                    "tahis": "8",
+                                    "adsOid": "ER01463790",
+                                    "aadress": {
+                                        "id": "28293680",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682428",
+                                        "ehos_id": "21615049",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8342923",
+                                        "ads_adr_id": "3382650",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX20000",
+                                        "lahiaadress": "Tartu mnt 4-8",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-8",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "8"
+                                    },
+                                    "adob_id": "9412478",
+                                    "ehrKood": "114012183-1719036",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719036",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.4",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "1",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615049",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615050",
+                                    "liik": "K",
+                                    "tahis": "7",
+                                    "adsOid": "ER01463786",
+                                    "aadress": {
+                                        "id": "28405910",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682427",
+                                        "ehos_id": "21615050",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8330734",
+                                        "ads_adr_id": "3382649",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX10000",
+                                        "lahiaadress": "Tartu mnt 4-7",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-7",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "7"
+                                    },
+                                    "adob_id": "9412477",
+                                    "ehrKood": "114012183-1719034",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719034",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "42.1",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "2",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "1",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615050",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615051",
+                                    "liik": "K",
+                                    "tahis": "6",
+                                    "adsOid": "ER01463784",
+                                    "aadress": {
+                                        "id": "28256766",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682426",
+                                        "ehos_id": "21615051",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8328183",
+                                        "ads_adr_id": "3382648",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEX00000",
+                                        "lahiaadress": "Tartu mnt 4-6",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-6",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "6"
+                                    },
+                                    "adob_id": "9412476",
+                                    "ehrKood": "114012183-1719032",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719032",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.7",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "3",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615051",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615052",
+                                    "liik": "K",
+                                    "tahis": "5",
+                                    "adsOid": "ER01463781",
+                                    "aadress": {
+                                        "id": "28266282",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682425",
+                                        "ehos_id": "21615052",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8315805",
+                                        "ads_adr_id": "3382647",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEWZ0000",
+                                        "lahiaadress": "Tartu mnt 4-5",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-5",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "5"
+                                    },
+                                    "adob_id": "9412475",
+                                    "ehrKood": "114012183-1719030",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719030",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "63.1",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "4",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "3",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615052",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615053",
+                                    "liik": "K",
+                                    "tahis": "4",
+                                    "adsOid": "ER01463778",
+                                    "aadress": {
+                                        "id": "28514461",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682424",
+                                        "ehos_id": "21615053",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8330916",
+                                        "ads_adr_id": "3382646",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEWY0000",
+                                        "lahiaadress": "Tartu mnt 4-4",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-4",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "4"
+                                    },
+                                    "adob_id": "9412474",
+                                    "ehrKood": "114012183-1719028",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719028",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.3",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "2",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615053",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615054",
+                                    "liik": "K",
+                                    "tahis": "3",
+                                    "adsOid": "ER01463776",
+                                    "aadress": {
+                                        "id": "28288788",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682423",
+                                        "ehos_id": "21615054",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8337473",
+                                        "ads_adr_id": "3382645",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEWX0000",
+                                        "lahiaadress": "Tartu mnt 4-3",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-3",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "3"
+                                    },
+                                    "adob_id": "9412473",
+                                    "ehrKood": "114012183-1719026",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719026",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "63.1",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "4",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "2",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615054",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615055",
+                                    "liik": "K",
+                                    "tahis": "2",
+                                    "adsOid": "ER01463773",
+                                    "aadress": {
+                                        "id": "28192477",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682422",
+                                        "ehos_id": "21615055",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8321180",
+                                        "ads_adr_id": "3382644",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEWW0000",
+                                        "lahiaadress": "Tartu mnt 4-2",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-2",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "2"
+                                    },
+                                    "adob_id": "9412472",
+                                    "ehrKood": "114012183-1719024",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719024",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "48.5",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "3",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "1",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615055",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "21615056",
+                                    "liik": "K",
+                                    "tahis": "1",
+                                    "adsOid": "ER01463771",
+                                    "aadress": {
+                                        "id": "28515863",
+                                        "olek": "K",
+                                        "oper": "A",
+                                        "tekst": null,
+                                        "aadr_id": "5682421",
+                                        "ehos_id": "21615056",
+                                        "kuju_id": null,
+                                        "olekTxt": "kehtiv",
+                                        "tase1_id": "7430891",
+                                        "tase2_id": "7430927",
+                                        "tase3_id": "7431082",
+                                        "tase4_id": null,
+                                        "tase5_id": "7438094",
+                                        "tase6_id": null,
+                                        "tase7_id": "7864303",
+                                        "tase8_id": "8343233",
+                                        "ads_adr_id": "3382643",
+                                        "tase1_kood": "50",
+                                        "tase2_kood": "618",
+                                        "koodaadress": "50618653700000TDX0000BRJUJEWV0000",
+                                        "lahiaadress": "Tartu mnt 4-1",
+                                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4-1",
+                                        "tase1_nimetus": "J\u00f5geva maakond",
+                                        "tase2_nimetus": "P\u00f5ltsamaa vald",
+                                        "tase3_nimetus": "P\u00f5ltsamaa linn",
+                                        "tase4_nimetus": null,
+                                        "tase5_nimetus": "Tartu mnt",
+                                        "tase6_nimetus": null,
+                                        "tase7_nimetus": "4",
+                                        "tase8_nimetus": "1"
+                                    },
+                                    "adob_id": "9412471",
+                                    "ehrKood": "114012183-1719022",
+                                    "liikTxt": "Korter",
+                                    "nimetus": null,
+                                    "osaOper": "A",
+                                    "spun_id": null,
+                                    "markused": null,
+                                    "osa_kood": "1719022",
+                                    "dokumendil": "J",
+                                    "osaUpdated": "2022-05-28T06:23:03.727",
+                                    "ads_esitamine": null,
+                                    "ehitiseOsaPohiandmed": {
+                                        "kook": "1",
+                                        "pind": "62.1",
+                                        "lahuspind": "0.0",
+                                        "tubadeArv": "4",
+                                        "koetavPind": "0.0",
+                                        "sissepaasuKorrus": "1",
+                                        "tualettruumide_arv": "1"
+                                    },
+                                    "ehitiseOsaTehnilisedNaitajad": {
+                                        "tehnilineNaitaja": [
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_VESI",
+                                                "tenaId": "1103",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Veevarustuse liik",
+                                                "lisavaartus": "kylm_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "30",
+                                                "klKood": "TEHNO_KANAL",
+                                                "tenaId": "1403",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "Kanalisatsiooni liik",
+                                                "lisavaartus": "kanalisats/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "90",
+                                                "klKood": "TEHNO_GAAS",
+                                                "tenaId": "1703",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "v\u00f5rk",
+                                                "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                                                "lisavaartus": "gaas/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "250",
+                                                "klKood": "TEHNO_ELPLIIT",
+                                                "tenaId": "1901",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "puudub",
+                                                "klNimetus": "elektripliit",
+                                                "lisavaartus": "el_pliit/0"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "210",
+                                                "klKood": "TEHNO_SVESI",
+                                                "tenaId": "1803",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "lokaalne",
+                                                "klNimetus": "soe vesi",
+                                                "lisavaartus": "soe_vesi/1"
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "60",
+                                                "klKood": "TEHNO_ENERGIA",
+                                                "tenaId": "2603",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "vedelk\u00fctus",
+                                                "klNimetus": "Energiaallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "40",
+                                                "klKood": "TEHNO_SOOJAVLIIK",
+                                                "tenaId": "2403",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "kaugk\u00fcte",
+                                                "klNimetus": "Soojusvarustuse liik",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "50",
+                                                "klKood": "TEHNO_SOOJUSA",
+                                                "tenaId": "2503",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "katel",
+                                                "klNimetus": "Soojusallikas",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "10",
+                                                "klKood": "TEHNO_WC",
+                                                "tenaId": "2002",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "vesiklosett",
+                                                "klNimetus": "Info tualettide kohta",
+                                                "lisavaartus": null
+                                            },
+                                            {
+                                                "oper": "A",
+                                                "jrkNr": "20",
+                                                "klKood": "TEHNO_OPESU",
+                                                "tenaId": "1203",
+                                                "ehos_id": "21615056",
+                                                "nimetus": "vann/du\u0161\u0161",
+                                                "klNimetus": "Info pesemisv\u00f5imaluse kohta",
+                                                "lisavaartus": null
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        "hoone_kuju_id": "25526883",
+                        "kehandUpdated": "2022-05-28T06:23:03.727",
+                        "esmane_kasutus": "1968",
+                        "do_ehitis_kehand_id": "8720605"
+                    }
+                ]
+            },
+            "ehitiseAadressid": {
+                "aadress": [
+                    {
+                        "oper": "A",
+                        "adrId": "3382642",
+                        "olekviit": {
+                            "olek": "K",
+                            "olekTxt": "kehtiv"
+                        },
+                        "koodaadress": "50618653700000TDX0000BRJU00000000",
+                        "lahiaadress": "Tartu mnt 4",
+                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4",
+                        "aadressTekstina": null
+                    }
+                ]
+            },
+            "ehitisePohiandmed": {
+                "lift": "0",
+                "maakond": "50",
+                "kinavald": null,
+                "ehAlustKp": null,
+                "mahtBruto": "3215.0",
+                "oletuslik": "0",
+                "tubadeArv": "36",
+                "omandiLiik": "EHITIS_OMANDI_LIIK_KINNIS",
+                "omavalitsus": "618",
+                "kavKasutusKp": null,
+                "omandiLiikTxt": "kinnisasi",
+                "vetteEhitatud": null,
+                "ajehKasutalgKp": null,
+                "maxKorrusteArv": "3",
+                "minKorrusteArv": "3",
+                "ajehKasutloppKp": null,
+                "ehitisalunePind": "297.0",
+                "suletud_netopind": "847.0",
+                "soltumatuVallasAsi": null
+            },
+            "ehitiseEnergiamargised": {
+                "energiamargis": []
+            },
+            "ehitiseKatastriyksused": {
+                "ehitiseKatastriyksus": [
+                    {
+                        "id": "26609835",
+                        "olek": "K",
+                        "oper": "A",
+                        "adob_id": 9415497,
+                        "ads_oid": "CU00329677",
+                        "kayk_id": "190139",
+                        "kontrKp": null,
+                        "lahiaadress": "Tartu mnt 4",
+                        "taisaadress": "J\u00f5geva maakond, P\u00f5ltsamaa vald, P\u00f5ltsamaa linn, Tartu mnt 4",
+                        "katastritunnus": "61701:003:0880",
+                        "seostamiseViis": null
+                    }
+                ]
+            },
+            "ehitiseKasutusotstarbed": {
+                "kasutusotstarve": [
+                    {
+                        "oper": "A",
+                        "kaosId": "11222",
+                        "ehos_id": null,
+                        "kaosKood": "11222",
+                        "kaosIdTxt": "Muu kolme v\u00f5i enama korteriga elamu",
+                        "eluruumidePind": "604.1",
+                        "mitteeluruumidePind": null
+                    }
+                ]
+            },
+            "ehitiseTehnilisedNaitajad": {
+                "tehnilineNaitaja": [
+                    {
+                        "oper": "A",
+                        "jrkNr": "0",
+                        "klKood": "KONS_VUND",
+                        "tenaId": "103",
+                        "nimetus": "madalvundament",
+                        "klNimetus": "Vundamendi liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "vundament/20/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "1",
+                        "klKood": "KONS_KKONSTR",
+                        "tenaId": "218",
+                        "nimetus": "tellis",
+                        "klNimetus": "Kande- ja j\u00e4igastavate konstruktsioonide materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "kandekonst/60/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "6",
+                        "klKood": "KONS_VLAED",
+                        "tenaId": "406",
+                        "nimetus": "monteeritav raudbetoon",
+                        "klNimetus": "Vahelagede kandva osa materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "vahelaed/10/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "4",
+                        "klKood": "KONS_VSEIN",
+                        "tenaId": "520",
+                        "nimetus": "tellis, v\u00e4ikeplokk",
+                        "klNimetus": "V\u00e4lisseina liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "valissein/30/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "7",
+                        "klKood": "KONS_KATUS",
+                        "tenaId": "603",
+                        "nimetus": "eterniit",
+                        "klNimetus": "Katusekatte materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "katus_kate/20/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "3",
+                        "klKood": "KONS_VALISV",
+                        "tenaId": "706",
+                        "nimetus": "keraamiline tellis",
+                        "klNimetus": "V\u00e4lisseina v\u00e4lisviimistluse materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "valis_viim/10/"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "20",
+                        "klKood": "TEHNO_VESI",
+                        "tenaId": "1103",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Veevarustuse liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "kylm_vesi/1"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "30",
+                        "klKood": "TEHNO_KANAL",
+                        "tenaId": "1403",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Kanalisatsiooni liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "kanalisats/1"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "90",
+                        "klKood": "TEHNO_GAAS",
+                        "tenaId": "1705",
+                        "nimetus": "olemas",
+                        "klNimetus": "V\u00f5rgu- v\u00f5i mahutigaasi olemasolu",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "gaas/1"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "60",
+                        "klKood": "TEHNO_ENERGIA",
+                        "tenaId": "2603",
+                        "nimetus": "vedelk\u00fctus",
+                        "klNimetus": "Energiaallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "kytuseliik/1"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "10",
+                        "klKood": "TEHNO_ELEKLIIK",
+                        "tenaId": "2303",
+                        "nimetus": "v\u00f5rk",
+                        "klNimetus": "Elektris\u00fcsteemi liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": "elekter/1"
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "5",
+                        "klKood": "KONS_SARIKAD",
+                        "tenaId": "906",
+                        "nimetus": "monteeritav raudbetoon",
+                        "klNimetus": "Katuste ja katuselagede kandva osa materjal",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "50",
+                        "klKood": "TEHNO_SOOJUSA",
+                        "tenaId": "2503",
+                        "nimetus": "katel",
+                        "klNimetus": "Soojusallikas",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    },
+                    {
+                        "oper": "A",
+                        "jrkNr": "40",
+                        "klKood": "TEHNO_SOOJAVLIIK",
+                        "tenaId": "2403",
+                        "nimetus": "kaugk\u00fcte",
+                        "klNimetus": "Soojusvarustuse liik",
+                        "eh_tehna_id": null,
+                        "lisavaartus": null
+                    }
+                ]
+            }
+        }
+    }
+]

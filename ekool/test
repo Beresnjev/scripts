@@ -1,0 +1,1300 @@
+//#DWR-INSERT
+//#DWR-REPLY
+//#DWR-START#
+(function() {
+    if (!window.dwr)
+        return;
+    var dwr = window.dwr._[0];
+    var s7 = new ee.ekool.model.SubstitutionReason();
+    var s5 = new ee.ekool.model.roles.Teacher();
+    var s2 = new ee.ekool.model.Country();
+    var s0 = new ee.ekool.model.institution.Institution();
+    var s3 = new ee.ekool.model.StudyYear();
+    var s1 = new ee.ekool.model.journal.Journal();
+    var s4 = new ee.ekool.model.journal.Journal();
+    var s6 = new ee.ekool.model.journal.Journal();
+    var s8 = new ee.ekool.model.journal.Journal();
+    var s9 = new ee.ekool.model.journal.Journal();
+    var s10 = new ee.ekool.model.journal.Journal();
+    var s11 = new ee.ekool.model.journal.Journal();
+    var s12 = new ee.ekool.model.journal.Journal();
+    var s13 = new ee.ekool.model.journal.Journal();
+    var s14 = new ee.ekool.model.journal.Journal();
+    var s15 = new ee.ekool.model.journal.Journal();
+    var s16 = new ee.ekool.model.journal.Journal();
+    var s17 = new ee.ekool.model.journal.Journal();
+    var s18 = new ee.ekool.model.journal.Journal();
+    var s19 = new ee.ekool.model.journal.Journal();
+    var s20 = new ee.ekool.model.journal.Journal();
+    var s21 = new ee.ekool.model.journal.Journal();
+    var s22 = new ee.ekool.model.journal.Journal();
+    var s23 = new ee.ekool.model.journal.Journal();
+    var s24 = new ee.ekool.model.journal.Journal();
+    var s25 = new ee.ekool.model.journal.Journal();
+    var s26 = new ee.ekool.model.journal.Journal();
+    var s27 = new ee.ekool.model.journal.Journal();
+    s7.created = null;
+    s7.creator = null;
+    s7.id = 11440779787;
+    s7.instanceClass = "SubstitutionReason";
+    s7.institution = s0;
+    s7.isTraining = false;
+    s7.modified = null;
+    s7.modifiedOrig = null;
+    s7.modifier = null;
+    s7.name = "Asendustund";
+    s7.numero = null;
+    s7.optLock = 0;
+    s5.birthDay = '04.03.1969';
+    s5.cachedTagsetRoles = null;
+    s5.created = '18.08.2023 12:42';
+    s5.creator = "infojuht@mgm.ee";
+    s5.endDate = null;
+    s5.gender = 1;
+    s5.id = 17700620270;
+    s5.idCode = "46903040249";
+    s5.idIssuedBy = s2;
+    s5.instanceClass = "Teacher";
+    s5.institution = s0;
+    s5.modified = '18.08.2023 12:42';
+    s5.modifiedOrig = '18.08.2023 12:42';
+    s5.modifier = "infojuht@mgm.ee";
+    s5.name = null;
+    s5.name1 = "Inge";
+    s5.name2 = "Veiner";
+    s5.newAbsences = 0;
+    s5.newAbsencesTime = '12.01.2013 00:00';
+    s5.newFeedEvents = 0;
+    s5.newFeedEventsTime = '12.01.2013 00:00';
+    s5.newGrades = 0;
+    s5.newGradesTime = '12.01.2013 00:00';
+    s5.newTodos = 0;
+    s5.newTodosTime = '12.01.2013 00:00';
+    s5.optLock = 0;
+    s5.person = null;
+    s5.profileImgFn = null;
+    s5.registerPerson = null;
+    s5.startDate = null;
+    s5.status = 1;
+    s5.studyYear = s3;
+    s2.countryCode = 372;
+    s2.created = '11.02.2010 12:33';
+    s2.creator = null;
+    s2.id = 1;
+    s2.inEU = true;
+    s2.instanceClass = "Country";
+    s2.isoCode = "EE";
+    s2.modified = null;
+    s2.modifiedOrig = null;
+    s2.modifier = null;
+    s2.name = "Estonia";
+    s2.optLock = 0;
+    s0.absenceLimitAmount = 5.00;
+    s0.absenceLimitAmountType = 1;
+    s0.absenceLimitType = 1;
+    s0.activeGradeTypes = null;
+    s0.address = null;
+    s0.admissions = null;
+    s0.arnoSettings = null;
+    s0.bankAccount = null;
+    s0.behaviourSchema = null;
+    s0.blogPostInstitutionRel = null;
+    s0.calendars = null;
+    s0.classLevels = null;
+    s0.clockType = null;
+    s0.code = null;
+    s0.country = s2;
+    s0.created = '20.05.2010 11:21';
+    s0.creator = "indrek importis";
+    s0.curriculums = null;
+    s0.dayEndHour = 22;
+    s0.dayStartHour = 8;
+    s0.daysInWeek = 5;
+    s0.descr = "Maardu G\u00FCmnaasium\n\n1.-9. klassid - vene \u00F5ppekeelega, v\u00E4ike- ja keelek\u00FCmblusklassid.\n\n10.-12. klassid - g\u00FCmnaasiumiklassid \n\n\u00D5htune osakond, \u00F5ppimine eesti ja vene keeles.";
+    s0.dilBehResponsibility = null;
+    s0.diligenceSchema = null;
+    s0.ehisId = "368";
+    s0.email = null;
+    s0.endDate = null;
+    s0.fileManagerEnabled = false;
+    s0.filename = null;
+    s0.headerDescr = null;
+    s0.headerImgFn = null;
+    s0.hmCanSeeInterviewProtocols = true;
+    s0.id = 263;
+    s0.idnetPresenceEnabled = false;
+    s0.idnetworkId = null;
+    s0.instanceClass = "Institution";
+    s0.institutionModules = null;
+    s0.institutionPackage = null;
+    s0.institutionType = dwr.engine.remote.newObject("ee.ekool.model.institution.InstitutionType", {
+        code: "G",
+        created: '11.02.2010 12:33',
+        creator: null,
+        id: 2,
+        instanceClass: "InstitutionType",
+        modified: null,
+        modifiedOrig: null,
+        modifier: null,
+        name: "High school",
+        optLock: 0,
+        type: 0
+    });
+    s0.interviewEnabled = true;
+    s0.invoiceGenLatest = null;
+    s0.invoiceGenLockTime = null;
+    s0.isAbsenceMinutes = false;
+    s0.isPayer = true;
+    s0.joinType = 0;
+    s0.keywords = "MGM, Maardu";
+    s0.language = "et";
+    s0.lessonTimeType = 1;
+    s0.lessonTimes = null;
+    s0.library = true;
+    s0.logoImgFn = "ekool-files\/profiles\/3eea6248-619c-470b-b15e-fbaf6ff1dcb8.jpg";
+    s0.migrationStatus = 33;
+    s0.modified = '04.02.2023 21:27';
+    s0.modifiedOrig = '04.02.2023 21:27';
+    s0.modifier = "infojuht@mgm.ee";
+    s0.name = "Maardu G\u00FCmnaasium";
+    s0.optLock = 51;
+    s0.payerAddress = null;
+    s0.payerCurrentRdReference = null;
+    s0.payerEmail = null;
+    s0.payerName = null;
+    s0.payerVat = null;
+    s0.paymentMethod = 1;
+    s0.peopleListDisplayMode = dwr.engine.remote.newObject("ee.ekool.model.PeopleListDisplayMode", {
+        created: '11.02.2010 12:33',
+        creator: null,
+        id: 2,
+        instanceClass: "PeopleListDisplayMode",
+        modified: null,
+        modifiedOrig: null,
+        modifier: null,
+        name: "Last, First",
+        optLock: 0
+    });
+    s0.peopleListSortMode = dwr.engine.remote.newObject("ee.ekool.model.PeopleListSortMode", {
+        created: '11.02.2010 12:33',
+        creator: null,
+        id: 2,
+        instanceClass: "PeopleListSortMode",
+        modified: null,
+        modifiedOrig: null,
+        modifier: null,
+        name: "Last, First",
+        optLock: 0
+    });
+    s0.phone = null;
+    s0.productCategories = null;
+    s0.published = true;
+    s0.referrerCode = null;
+    s0.regNr = "75011961";
+    s0.schoolGroupSettings = null;
+    s0.serviceAreas = null;
+    s0.servicesBlog = null;
+    s0.servicesBlogAdmins = null;
+    s0.servicesComments = null;
+    s0.servicesCommentsNew = null;
+    s0.status = 0;
+    s0.studyYears = null;
+    s0.substitutionReasons = null;
+    s0.teacherCanAddJournal = false;
+    s0.timetableUrl = "";
+    s0.timezone = null;
+    s0.trialEmailSentTime = null;
+    s0.url = "www.mgm.ee";
+    s0.weekStart = null;
+    s0.writeToStaff = true;
+    s0.zeroLesson = false;
+    s3.archiveRequestTime = null;
+    s3.archiveRequesterName = null;
+    s3.created = '16.08.2023 11:39';
+    s3.creator = "infojuht@mgm.ee";
+    s3.endDate = '31.08.2024';
+    s3.id = 17699815067;
+    s3.instanceClass = "StudyYear";
+    s3.institution = s0;
+    s3.modified = '16.08.2023 11:52';
+    s3.modifiedOrig = '16.08.2023 11:52';
+    s3.modifier = "infojuht@mgm.ee";
+    s3.name = "2023\/2024";
+    s3.optLock = 1;
+    s3.periodsGroups = null;
+    s3.startDate = '01.09.2023';
+    s3.studyYearStatus = 0;
+    s3.teachers = null;
+    s1.allCourses = null;
+    s1.allowTeacherPickStudents = true;
+    s1.cloneStatus = 0;
+    s1.course = null;
+    s1.created = '17.08.2023 13:29';
+    s1.creator = "infojuht@mgm.ee";
+    s1.id = 17700225075;
+    s1.idnetPresenceEnabled = false;
+    s1.inactiveStudents = null;
+    s1.individual = false;
+    s1.instanceClass = "Journal";
+    s1.institution = s0;
+    s1.isBaseSubject = false;
+    s1.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 1,
+        created: '29.01.2024 08:09',
+        creator: "infojuht@mgm.ee",
+        id: 17967878867,
+        instanceClass: "JournalTeacherRel",
+        journal: s1,
+        modified: '29.01.2024 08:09',
+        modifiedOrig: '29.01.2024 08:09',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: false,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: s7,
+        teacher: s5
+    })];
+    s1.locked = false;
+    s1.modified = '12.03.2024 07:27';
+    s1.modifiedOrig = '12.03.2024 07:27';
+    s1.modifier = "infojuht@mgm.ee";
+    s1.name = "2.d K\u00E4eline tegevus";
+    s1.optLock = 8;
+    s1.pickedStudents = null;
+    s1.preRegistrationCourses = null;
+    s1.report = true;
+    s1.reportPaper = 0;
+    s1.sentenceCollection = true;
+    s1.studyYear = s3;
+    s1.tagSets = null;
+    s4.allCourses = null;
+    s4.allowTeacherPickStudents = true;
+    s4.cloneStatus = 0;
+    s4.course = null;
+    s4.created = '17.08.2023 13:29';
+    s4.creator = "infojuht@mgm.ee";
+    s4.id = 17700225147;
+    s4.idnetPresenceEnabled = false;
+    s4.inactiveStudents = null;
+    s4.individual = false;
+    s4.instanceClass = "Journal";
+    s4.institution = s0;
+    s4.isBaseSubject = false;
+    s4.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '13.09.2023 13:13',
+        creator: "infojuht@mgm.ee",
+        id: 17727539278,
+        instanceClass: "JournalTeacherRel",
+        journal: s4,
+        modified: '13.09.2023 13:13',
+        modifiedOrig: '13.09.2023 13:13',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s4.locked = false;
+    s4.modified = '14.09.2023 10:43';
+    s4.modifiedOrig = '14.09.2023 10:43';
+    s4.modifier = "infojuht@mgm.ee";
+    s4.name = "5.h Informaatika";
+    s4.optLock = 5;
+    s4.pickedStudents = null;
+    s4.preRegistrationCourses = null;
+    s4.report = true;
+    s4.reportPaper = 0;
+    s4.sentenceCollection = true;
+    s4.studyYear = s3;
+    s4.tagSets = null;
+    s6.allCourses = null;
+    s6.allowTeacherPickStudents = true;
+    s6.cloneStatus = 0;
+    s6.course = null;
+    s6.created = '17.08.2023 13:29';
+    s6.creator = "infojuht@mgm.ee";
+    s6.id = 17700225189;
+    s6.idnetPresenceEnabled = false;
+    s6.inactiveStudents = null;
+    s6.individual = false;
+    s6.instanceClass = "Journal";
+    s6.institution = s0;
+    s6.isBaseSubject = false;
+    s6.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '05.09.2023 20:39',
+        creator: "infojuht@mgm.ee",
+        id: 17713612130,
+        instanceClass: "JournalTeacherRel",
+        journal: s6,
+        modified: '05.09.2023 20:39',
+        modifiedOrig: '05.09.2023 20:39',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s6.locked = false;
+    s6.modified = '18.01.2024 08:00';
+    s6.modifiedOrig = '18.01.2024 08:00';
+    s6.modifier = "infojuht@mgm.ee";
+    s6.name = "5.h Kirjandus";
+    s6.optLock = 5;
+    s6.pickedStudents = null;
+    s6.preRegistrationCourses = null;
+    s6.report = true;
+    s6.reportPaper = 0;
+    s6.sentenceCollection = true;
+    s6.studyYear = s3;
+    s6.tagSets = null;
+    s8.allCourses = null;
+    s8.allowTeacherPickStudents = true;
+    s8.cloneStatus = 0;
+    s8.course = null;
+    s8.created = '17.08.2023 13:30';
+    s8.creator = "infojuht@mgm.ee";
+    s8.id = 17700225579;
+    s8.idnetPresenceEnabled = false;
+    s8.inactiveStudents = null;
+    s8.individual = false;
+    s8.instanceClass = "Journal";
+    s8.institution = s0;
+    s8.isBaseSubject = false;
+    s8.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 1,
+        created: '12.01.2024 08:16',
+        creator: "infojuht@mgm.ee",
+        id: 17938626728,
+        instanceClass: "JournalTeacherRel",
+        journal: s8,
+        modified: '12.01.2024 08:16',
+        modifiedOrig: '12.01.2024 08:16',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: false,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: s7,
+        teacher: s5
+    })];
+    s8.locked = false;
+    s8.modified = '09.04.2024 08:07';
+    s8.modifiedOrig = '09.04.2024 08:07';
+    s8.modifier = "infojuht@mgm.ee";
+    s8.name = "4.b Loodus\u00F5petus";
+    s8.optLock = 8;
+    s8.pickedStudents = null;
+    s8.preRegistrationCourses = null;
+    s8.report = true;
+    s8.reportPaper = 0;
+    s8.sentenceCollection = true;
+    s8.studyYear = s3;
+    s8.tagSets = null;
+    s9.allCourses = null;
+    s9.allowTeacherPickStudents = true;
+    s9.cloneStatus = 0;
+    s9.course = null;
+    s9.created = '17.08.2023 13:30';
+    s9.creator = "infojuht@mgm.ee";
+    s9.id = 17700226101;
+    s9.idnetPresenceEnabled = false;
+    s9.inactiveStudents = null;
+    s9.individual = false;
+    s9.instanceClass = "Journal";
+    s9.institution = s0;
+    s9.isBaseSubject = false;
+    s9.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '18.08.2023 13:05',
+        creator: "infojuht@mgm.ee",
+        id: 17700621428,
+        instanceClass: "JournalTeacherRel",
+        journal: s9,
+        modified: '18.08.2023 13:05',
+        modifiedOrig: '18.08.2023 13:05',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s9.locked = false;
+    s9.modified = '14.09.2023 10:43';
+    s9.modifiedOrig = '14.09.2023 10:43';
+    s9.modifier = "infojuht@mgm.ee";
+    s9.name = "5.h Klassijuhataja tund";
+    s9.optLock = 4;
+    s9.pickedStudents = null;
+    s9.preRegistrationCourses = null;
+    s9.report = false;
+    s9.reportPaper = 0;
+    s9.sentenceCollection = true;
+    s9.studyYear = s3;
+    s9.tagSets = null;
+    s10.allCourses = null;
+    s10.allowTeacherPickStudents = true;
+    s10.cloneStatus = 0;
+    s10.course = null;
+    s10.created = '17.08.2023 13:30';
+    s10.creator = "infojuht@mgm.ee";
+    s10.id = 17700226139;
+    s10.idnetPresenceEnabled = false;
+    s10.inactiveStudents = null;
+    s10.individual = false;
+    s10.instanceClass = "Journal";
+    s10.institution = s0;
+    s10.isBaseSubject = false;
+    s10.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '13.09.2023 12:46',
+        creator: "infojuht@mgm.ee",
+        id: 17727402557,
+        instanceClass: "JournalTeacherRel",
+        journal: s10,
+        modified: '13.09.2023 12:46',
+        modifiedOrig: '13.09.2023 12:46',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s10.locked = false;
+    s10.modified = '05.03.2024 17:12';
+    s10.modifiedOrig = '05.03.2024 17:12';
+    s10.modifier = "infojuht@mgm.ee";
+    s10.name = "5.h Kunst";
+    s10.optLock = 7;
+    s10.pickedStudents = null;
+    s10.preRegistrationCourses = null;
+    s10.report = true;
+    s10.reportPaper = 0;
+    s10.sentenceCollection = true;
+    s10.studyYear = s3;
+    s10.tagSets = null;
+    s11.allCourses = null;
+    s11.allowTeacherPickStudents = true;
+    s11.cloneStatus = 0;
+    s11.course = null;
+    s11.created = '17.08.2023 13:30';
+    s11.creator = "infojuht@mgm.ee";
+    s11.id = 17700226299;
+    s11.idnetPresenceEnabled = false;
+    s11.inactiveStudents = null;
+    s11.individual = false;
+    s11.instanceClass = "Journal";
+    s11.institution = s0;
+    s11.isBaseSubject = false;
+    s11.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 70,
+        created: '03.09.2023 23:12',
+        creator: "infojuht@mgm.ee",
+        id: 17709673457,
+        instanceClass: "JournalTeacherRel",
+        journal: s11,
+        modified: '07.02.2024 11:29',
+        modifiedOrig: '07.02.2024 11:29',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s11.locked = false;
+    s11.modified = '07.02.2024 11:29';
+    s11.modifiedOrig = '07.02.2024 11:29';
+    s11.modifier = "infojuht@mgm.ee";
+    s11.name = "5.h Vene keel";
+    s11.optLock = 4;
+    s11.pickedStudents = null;
+    s11.preRegistrationCourses = null;
+    s11.report = true;
+    s11.reportPaper = 0;
+    s11.sentenceCollection = true;
+    s11.studyYear = s3;
+    s11.tagSets = null;
+    s12.allCourses = null;
+    s12.allowTeacherPickStudents = true;
+    s12.cloneStatus = 0;
+    s12.course = null;
+    s12.created = '31.08.2023 11:23';
+    s12.creator = "infojuht@mgm.ee";
+    s12.id = 17707429642;
+    s12.idnetPresenceEnabled = false;
+    s12.inactiveStudents = null;
+    s12.individual = false;
+    s12.instanceClass = "Journal";
+    s12.institution = s0;
+    s12.isBaseSubject = false;
+    s12.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 175,
+        created: '25.10.2023 19:17',
+        creator: "infojuht@mgm.ee",
+        id: 17803879132,
+        instanceClass: "JournalTeacherRel",
+        journal: s12,
+        modified: '30.10.2023 14:46',
+        modifiedOrig: '30.10.2023 14:46',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s12.locked = false;
+    s12.modified = '14.03.2024 11:12';
+    s12.modifiedOrig = '14.03.2024 11:12';
+    s12.modifier = "infojuht@mgm.ee";
+    s12.name = "1.el Matemaatika";
+    s12.optLock = 8;
+    s12.pickedStudents = null;
+    s12.preRegistrationCourses = null;
+    s12.report = true;
+    s12.reportPaper = 0;
+    s12.sentenceCollection = true;
+    s12.studyYear = s3;
+    s12.tagSets = null;
+    s13.allCourses = null;
+    s13.allowTeacherPickStudents = true;
+    s13.cloneStatus = 0;
+    s13.course = null;
+    s13.created = '31.08.2023 11:37';
+    s13.creator = "infojuht@mgm.ee";
+    s13.id = 17707441537;
+    s13.idnetPresenceEnabled = false;
+    s13.inactiveStudents = null;
+    s13.individual = false;
+    s13.instanceClass = "Journal";
+    s13.institution = s0;
+    s13.isBaseSubject = false;
+    s13.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 70,
+        created: '30.10.2023 14:46',
+        creator: "infojuht@mgm.ee",
+        id: 17807344854,
+        instanceClass: "JournalTeacherRel",
+        journal: s13,
+        modified: '07.02.2024 11:28',
+        modifiedOrig: '07.02.2024 11:28',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s13.locked = false;
+    s13.modified = '07.02.2024 11:28';
+    s13.modifiedOrig = '07.02.2024 11:28';
+    s13.modifier = "infojuht@mgm.ee";
+    s13.name = "1.el K\u00E4eline tegevus";
+    s13.optLock = 5;
+    s13.pickedStudents = null;
+    s13.preRegistrationCourses = null;
+    s13.report = true;
+    s13.reportPaper = 0;
+    s13.sentenceCollection = true;
+    s13.studyYear = s3;
+    s13.tagSets = null;
+    s14.allCourses = null;
+    s14.allowTeacherPickStudents = true;
+    s14.cloneStatus = 0;
+    s14.course = null;
+    s14.created = '31.08.2023 11:38';
+    s14.creator = "infojuht@mgm.ee";
+    s14.id = 17707441892;
+    s14.idnetPresenceEnabled = false;
+    s14.inactiveStudents = null;
+    s14.individual = false;
+    s14.instanceClass = "Journal";
+    s14.institution = s0;
+    s14.isBaseSubject = false;
+    s14.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 70,
+        created: '30.10.2023 14:48',
+        creator: "infojuht@mgm.ee",
+        id: 17807351793,
+        instanceClass: "JournalTeacherRel",
+        journal: s14,
+        modified: '30.10.2023 14:48',
+        modifiedOrig: '30.10.2023 14:48',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s14.locked = false;
+    s14.modified = '15.12.2023 08:26';
+    s14.modifiedOrig = '15.12.2023 08:26';
+    s14.modifier = "infojuht@mgm.ee";
+    s14.name = "1.el Liikumine";
+    s14.optLock = 6;
+    s14.pickedStudents = null;
+    s14.preRegistrationCourses = null;
+    s14.report = true;
+    s14.reportPaper = 0;
+    s14.sentenceCollection = true;
+    s14.studyYear = s3;
+    s14.tagSets = null;
+    s15.allCourses = null;
+    s15.allowTeacherPickStudents = true;
+    s15.cloneStatus = 0;
+    s15.course = null;
+    s15.created = '31.08.2023 11:39';
+    s15.creator = "infojuht@mgm.ee";
+    s15.id = 17707442945;
+    s15.idnetPresenceEnabled = false;
+    s15.inactiveStudents = null;
+    s15.individual = false;
+    s15.instanceClass = "Journal";
+    s15.institution = s0;
+    s15.isBaseSubject = false;
+    s15.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 245,
+        created: '30.10.2023 14:45',
+        creator: "infojuht@mgm.ee",
+        id: 17807339665,
+        instanceClass: "JournalTeacherRel",
+        journal: s15,
+        modified: '30.10.2023 14:45',
+        modifiedOrig: '30.10.2023 14:45',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s15.locked = false;
+    s15.modified = '18.01.2024 08:00';
+    s15.modifiedOrig = '18.01.2024 08:00';
+    s15.modifier = "infojuht@mgm.ee";
+    s15.name = "1.el Vene keel";
+    s15.optLock = 5;
+    s15.pickedStudents = null;
+    s15.preRegistrationCourses = null;
+    s15.report = true;
+    s15.reportPaper = 0;
+    s15.sentenceCollection = true;
+    s15.studyYear = s3;
+    s15.tagSets = null;
+    s16.allCourses = null;
+    s16.allowTeacherPickStudents = true;
+    s16.cloneStatus = 0;
+    s16.course = null;
+    s16.created = '31.08.2023 11:40';
+    s16.creator = "infojuht@mgm.ee";
+    s16.id = 17707443207;
+    s16.idnetPresenceEnabled = false;
+    s16.inactiveStudents = null;
+    s16.individual = false;
+    s16.instanceClass = "Journal";
+    s16.institution = s0;
+    s16.isBaseSubject = false;
+    s16.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '30.10.2023 14:46',
+        creator: "infojuht@mgm.ee",
+        id: 17807344087,
+        instanceClass: "JournalTeacherRel",
+        journal: s16,
+        modified: '30.10.2023 14:46',
+        modifiedOrig: '30.10.2023 14:46',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s16.locked = false;
+    s16.modified = '26.01.2024 08:01';
+    s16.modifiedOrig = '26.01.2024 08:01';
+    s16.modifier = "infojuht@mgm.ee";
+    s16.name = "1.el Inimese\u00F5petus";
+    s16.optLock = 4;
+    s16.pickedStudents = null;
+    s16.preRegistrationCourses = null;
+    s16.report = true;
+    s16.reportPaper = 0;
+    s16.sentenceCollection = true;
+    s16.studyYear = s3;
+    s16.tagSets = null;
+    s17.allCourses = null;
+    s17.allowTeacherPickStudents = true;
+    s17.cloneStatus = 0;
+    s17.course = null;
+    s17.created = '03.09.2023 21:50';
+    s17.creator = "infojuht@mgm.ee";
+    s17.id = 17709632322;
+    s17.idnetPresenceEnabled = false;
+    s17.inactiveStudents = null;
+    s17.individual = false;
+    s17.instanceClass = "Journal";
+    s17.institution = s0;
+    s17.isBaseSubject = false;
+    s17.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 140,
+        created: '30.10.2023 14:45',
+        creator: "infojuht@mgm.ee",
+        id: 17807338534,
+        instanceClass: "JournalTeacherRel",
+        journal: s17,
+        modified: '30.10.2023 14:45',
+        modifiedOrig: '30.10.2023 14:45',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s17.locked = false;
+    s17.modified = '15.11.2023 09:21';
+    s17.modifiedOrig = '15.11.2023 09:21';
+    s17.modifier = "infojuht@mgm.ee";
+    s17.name = "3.d Matemaatika";
+    s17.optLock = 7;
+    s17.pickedStudents = null;
+    s17.preRegistrationCourses = null;
+    s17.report = true;
+    s17.reportPaper = 0;
+    s17.sentenceCollection = true;
+    s17.studyYear = s3;
+    s17.tagSets = null;
+    s18.allCourses = null;
+    s18.allowTeacherPickStudents = true;
+    s18.cloneStatus = 0;
+    s18.course = null;
+    s18.created = '03.09.2023 22:04';
+    s18.creator = "infojuht@mgm.ee";
+    s18.id = 17709639584;
+    s18.idnetPresenceEnabled = false;
+    s18.inactiveStudents = null;
+    s18.individual = false;
+    s18.instanceClass = "Journal";
+    s18.institution = s0;
+    s18.isBaseSubject = false;
+    s18.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 175,
+        created: '25.10.2023 19:17',
+        creator: "infojuht@mgm.ee",
+        id: 17803879208,
+        instanceClass: "JournalTeacherRel",
+        journal: s18,
+        modified: '13.11.2023 12:16',
+        modifiedOrig: '13.11.2023 12:16',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s18.locked = false;
+    s18.modified = '14.03.2024 11:12';
+    s18.modifiedOrig = '14.03.2024 11:12';
+    s18.modifier = "infojuht@mgm.ee";
+    s18.name = "3.el Matemaatika";
+    s18.optLock = 7;
+    s18.pickedStudents = null;
+    s18.preRegistrationCourses = null;
+    s18.report = true;
+    s18.reportPaper = 0;
+    s18.sentenceCollection = true;
+    s18.studyYear = s3;
+    s18.tagSets = null;
+    s19.allCourses = null;
+    s19.allowTeacherPickStudents = true;
+    s19.cloneStatus = 0;
+    s19.course = null;
+    s19.created = '03.09.2023 22:04';
+    s19.creator = "infojuht@mgm.ee";
+    s19.id = 17709639880;
+    s19.idnetPresenceEnabled = false;
+    s19.inactiveStudents = null;
+    s19.individual = false;
+    s19.instanceClass = "Journal";
+    s19.institution = s0;
+    s19.isBaseSubject = false;
+    s19.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '30.10.2023 14:48',
+        creator: "infojuht@mgm.ee",
+        id: 17807354362,
+        instanceClass: "JournalTeacherRel",
+        journal: s19,
+        modified: '30.10.2023 14:48',
+        modifiedOrig: '30.10.2023 14:48',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s19.locked = false;
+    s19.modified = '26.01.2024 08:01';
+    s19.modifiedOrig = '26.01.2024 08:01';
+    s19.modifier = "infojuht@mgm.ee";
+    s19.name = "3.el Inimese\u00F5petus";
+    s19.optLock = 4;
+    s19.pickedStudents = null;
+    s19.preRegistrationCourses = null;
+    s19.report = true;
+    s19.reportPaper = 0;
+    s19.sentenceCollection = true;
+    s19.studyYear = s3;
+    s19.tagSets = null;
+    s20.allCourses = null;
+    s20.allowTeacherPickStudents = true;
+    s20.cloneStatus = 0;
+    s20.course = null;
+    s20.created = '03.09.2023 22:05';
+    s20.creator = "infojuht@mgm.ee";
+    s20.id = 17709640348;
+    s20.idnetPresenceEnabled = false;
+    s20.inactiveStudents = null;
+    s20.individual = false;
+    s20.instanceClass = "Journal";
+    s20.institution = s0;
+    s20.isBaseSubject = false;
+    s20.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '30.10.2023 14:48',
+        creator: "infojuht@mgm.ee",
+        id: 17807353457,
+        instanceClass: "JournalTeacherRel",
+        journal: s20,
+        modified: '30.10.2023 14:48',
+        modifiedOrig: '30.10.2023 14:48',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s20.locked = false;
+    s20.modified = '07.02.2024 11:29';
+    s20.modifiedOrig = '07.02.2024 11:29';
+    s20.modifier = "infojuht@mgm.ee";
+    s20.name = "3.el K\u00E4eline tegevus";
+    s20.optLock = 5;
+    s20.pickedStudents = null;
+    s20.preRegistrationCourses = null;
+    s20.report = true;
+    s20.reportPaper = 0;
+    s20.sentenceCollection = true;
+    s20.studyYear = s3;
+    s20.tagSets = null;
+    s21.allCourses = null;
+    s21.allowTeacherPickStudents = true;
+    s21.cloneStatus = 0;
+    s21.course = null;
+    s21.created = '03.09.2023 22:06';
+    s21.creator = "infojuht@mgm.ee";
+    s21.id = 17709640743;
+    s21.idnetPresenceEnabled = false;
+    s21.inactiveStudents = null;
+    s21.individual = false;
+    s21.instanceClass = "Journal";
+    s21.institution = s0;
+    s21.isBaseSubject = false;
+    s21.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 105,
+        created: '30.10.2023 14:48',
+        creator: "infojuht@mgm.ee",
+        id: 17807352997,
+        instanceClass: "JournalTeacherRel",
+        journal: s21,
+        modified: '07.02.2024 11:28',
+        modifiedOrig: '07.02.2024 11:28',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s21.locked = false;
+    s21.modified = '07.02.2024 11:28';
+    s21.modifiedOrig = '07.02.2024 11:28';
+    s21.modifier = "infojuht@mgm.ee";
+    s21.name = "3.el Liikumine";
+    s21.optLock = 7;
+    s21.pickedStudents = null;
+    s21.preRegistrationCourses = null;
+    s21.report = true;
+    s21.reportPaper = 0;
+    s21.sentenceCollection = true;
+    s21.studyYear = s3;
+    s21.tagSets = null;
+    s22.allCourses = null;
+    s22.allowTeacherPickStudents = true;
+    s22.cloneStatus = 0;
+    s22.course = null;
+    s22.created = '03.09.2023 22:07';
+    s22.creator = "infojuht@mgm.ee";
+    s22.id = 17709641468;
+    s22.idnetPresenceEnabled = false;
+    s22.inactiveStudents = null;
+    s22.individual = false;
+    s22.instanceClass = "Journal";
+    s22.institution = s0;
+    s22.isBaseSubject = false;
+    s22.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 175,
+        created: '30.11.2023 15:43',
+        creator: "infojuht@mgm.ee",
+        id: 17881571861,
+        instanceClass: "JournalTeacherRel",
+        journal: s22,
+        modified: '30.11.2023 15:43',
+        modifiedOrig: '30.11.2023 15:43',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s22.locked = false;
+    s22.modified = '15.04.2024 08:05';
+    s22.modifiedOrig = '15.04.2024 08:05';
+    s22.modifier = "infojuht@mgm.ee";
+    s22.name = "3.el \u00D5uetund";
+    s22.optLock = 21;
+    s22.pickedStudents = null;
+    s22.preRegistrationCourses = null;
+    s22.report = false;
+    s22.reportPaper = 0;
+    s22.sentenceCollection = true;
+    s22.studyYear = s3;
+    s22.tagSets = null;
+    s23.allCourses = null;
+    s23.allowTeacherPickStudents = true;
+    s23.cloneStatus = 0;
+    s23.course = null;
+    s23.created = '03.09.2023 22:07';
+    s23.creator = "infojuht@mgm.ee";
+    s23.id = 17709641862;
+    s23.idnetPresenceEnabled = false;
+    s23.inactiveStudents = null;
+    s23.individual = false;
+    s23.instanceClass = "Journal";
+    s23.institution = s0;
+    s23.isBaseSubject = false;
+    s23.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 245,
+        created: '30.10.2023 14:45',
+        creator: "infojuht@mgm.ee",
+        id: 17807341155,
+        instanceClass: "JournalTeacherRel",
+        journal: s23,
+        modified: '07.02.2024 11:28',
+        modifiedOrig: '07.02.2024 11:28',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 1,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s23.locked = false;
+    s23.modified = '07.02.2024 11:28';
+    s23.modifiedOrig = '07.02.2024 11:28';
+    s23.modifier = "infojuht@mgm.ee";
+    s23.name = "3.el Vene keel";
+    s23.optLock = 7;
+    s23.pickedStudents = null;
+    s23.preRegistrationCourses = null;
+    s23.report = true;
+    s23.reportPaper = 0;
+    s23.sentenceCollection = true;
+    s23.studyYear = s3;
+    s23.tagSets = null;
+    s24.allCourses = null;
+    s24.allowTeacherPickStudents = true;
+    s24.cloneStatus = 0;
+    s24.course = null;
+    s24.created = '11.09.2023 09:43';
+    s24.creator = "infojuht@mgm.ee";
+    s24.id = 17721242835;
+    s24.idnetPresenceEnabled = false;
+    s24.inactiveStudents = null;
+    s24.individual = false;
+    s24.instanceClass = "Journal";
+    s24.institution = s0;
+    s24.isBaseSubject = false;
+    s24.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '30.10.2023 14:48',
+        creator: "infojuht@mgm.ee",
+        id: 17807355076,
+        instanceClass: "JournalTeacherRel",
+        journal: s24,
+        modified: '30.10.2023 14:48',
+        modifiedOrig: '30.10.2023 14:48',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s24.locked = false;
+    s24.modified = '15.12.2023 08:24';
+    s24.modifiedOrig = '15.12.2023 08:24';
+    s24.modifier = "infojuht@mgm.ee";
+    s24.name = "3.el Klassijuhataja tund";
+    s24.optLock = 5;
+    s24.pickedStudents = null;
+    s24.preRegistrationCourses = null;
+    s24.report = false;
+    s24.reportPaper = 0;
+    s24.sentenceCollection = true;
+    s24.studyYear = s3;
+    s24.tagSets = null;
+    s25.allCourses = null;
+    s25.allowTeacherPickStudents = true;
+    s25.cloneStatus = 0;
+    s25.course = null;
+    s25.created = '31.10.2023 14:52';
+    s25.creator = "infojuht@mgm.ee";
+    s25.id = 17810139082;
+    s25.idnetPresenceEnabled = false;
+    s25.inactiveStudents = null;
+    s25.individual = false;
+    s25.instanceClass = "Journal";
+    s25.institution = s0;
+    s25.isBaseSubject = false;
+    s25.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '31.10.2023 14:52',
+        creator: "infojuht@mgm.ee",
+        id: 17810139085,
+        instanceClass: "JournalTeacherRel",
+        journal: s25,
+        modified: '31.10.2023 14:52',
+        modifiedOrig: '31.10.2023 14:52',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s25.locked = false;
+    s25.modified = '11.04.2024 08:09';
+    s25.modifiedOrig = '11.04.2024 08:09';
+    s25.modifier = "infojuht@mgm.ee";
+    s25.name = "1.el Kunst";
+    s25.optLock = 4;
+    s25.pickedStudents = null;
+    s25.preRegistrationCourses = null;
+    s25.report = true;
+    s25.reportPaper = 0;
+    s25.sentenceCollection = true;
+    s25.studyYear = s3;
+    s25.tagSets = null;
+    s26.allCourses = null;
+    s26.allowTeacherPickStudents = true;
+    s26.cloneStatus = 0;
+    s26.course = null;
+    s26.created = '31.10.2023 14:52';
+    s26.creator = "infojuht@mgm.ee";
+    s26.id = 17810140756;
+    s26.idnetPresenceEnabled = false;
+    s26.inactiveStudents = null;
+    s26.individual = false;
+    s26.instanceClass = "Journal";
+    s26.institution = s0;
+    s26.isBaseSubject = false;
+    s26.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '31.10.2023 14:52',
+        creator: "infojuht@mgm.ee",
+        id: 17810140757,
+        instanceClass: "JournalTeacherRel",
+        journal: s26,
+        modified: '31.10.2023 14:52',
+        modifiedOrig: '31.10.2023 14:52',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s26.locked = false;
+    s26.modified = '11.04.2024 08:10';
+    s26.modifiedOrig = '11.04.2024 08:10';
+    s26.modifier = "infojuht@mgm.ee";
+    s26.name = "3.el Kunst";
+    s26.optLock = 5;
+    s26.pickedStudents = null;
+    s26.preRegistrationCourses = null;
+    s26.report = true;
+    s26.reportPaper = 0;
+    s26.sentenceCollection = true;
+    s26.studyYear = s3;
+    s26.tagSets = null;
+    s27.allCourses = null;
+    s27.allowTeacherPickStudents = true;
+    s27.cloneStatus = 0;
+    s27.course = null;
+    s27.created = '31.10.2023 16:19';
+    s27.creator = "infojuht@mgm.ee";
+    s27.id = 17810405040;
+    s27.idnetPresenceEnabled = false;
+    s27.inactiveStudents = null;
+    s27.individual = false;
+    s27.instanceClass = "Journal";
+    s27.institution = s0;
+    s27.isBaseSubject = false;
+    s27.journalTeacherRels = [dwr.engine.remote.newObject("ee.ekool.model.journal.JournalTeacherRel", {
+        calendarEvent: null,
+        capacity: 35,
+        created: '31.10.2023 16:19',
+        creator: "infojuht@mgm.ee",
+        id: 17810405041,
+        instanceClass: "JournalTeacherRel",
+        journal: s27,
+        modified: '31.10.2023 16:19',
+        modifiedOrig: '31.10.2023 16:19',
+        modifier: "infojuht@mgm.ee",
+        name: null,
+        optLock: 0,
+        person: null,
+        primaryTeacher: true,
+        sendMailToSubstitu: true,
+        sendNotificationToJournal: true,
+        substitutionReason: null,
+        teacher: s5
+    })];
+    s27.locked = false;
+    s27.modified = '15.12.2023 08:23';
+    s27.modifiedOrig = '15.12.2023 08:23';
+    s27.modifier = "infojuht@mgm.ee";
+    s27.name = "1.el Klassijuhataja tund";
+    s27.optLock = 4;
+    s27.pickedStudents = null;
+    s27.preRegistrationCourses = null;
+    s27.report = false;
+    s27.reportPaper = 0;
+    s27.sentenceCollection = true;
+    s27.studyYear = s3;
+    s27.tagSets = null;
+    dwr.engine.remote.handleCallback("51", "0", {
+        aeg: '27.04.2024 15:37',
+        errors: [],
+        isError: 0,
+        notices: [],
+        returnObject: {
+            futureJournals: [],
+            availableLessonTypes: [],
+            journals: [s1, s4, s6, s8, s9, s10, s11, s12, s13, s14, s15, s16, s17, s18, s19, s20, s21, s22, s23, s24, s25, s26, s27],
+            oldJournals: []
+        }
+    });
+}
+)();
+//#DWR-END#
